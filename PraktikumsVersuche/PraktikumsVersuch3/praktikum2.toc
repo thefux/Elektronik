@@ -1,0 +1,10 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Eingangskennlinie}{2}
+\contentsline {subsection}{\numberline {1.1}Experimentelle Durchf\"uhrung}{2}
+\contentsline {subsection}{\numberline {1.2}Ergebnisse und Diskussion}{2}
+\contentsline {section}{\numberline {2}Stromsteuerkennlinie}{5}
+\contentsline {subsection}{\numberline {2.1}Experimentelle Durchf\"urung}{5}
+\contentsline {subsection}{\numberline {2.2}Ergebnisse und Diskussion}{6}
+\contentsline {section}{\numberline {3}Ausgangskennlinienfeld}{8}
+\contentsline {subsection}{\numberline {3.1}Experimentelle Durchf\"uhrung}{8}
+\contentsline {subsection}{\numberline {3.2}Ergebnisse und Diskussion}{8}

@@ -1,0 +1,587 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  12 DEC 2016 21:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./praktikum2.tex
+(./praktikum2.tex
+LaTeX2e <2016/03/31>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(c:/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2015/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./package.tex
+(c:/texlive/2015/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/02/24 3.9q The Babel package
+
+(c:/texlive/2015/texmf-dist/tex/generic/babel-german/ngerman.ldf
+Language: ngerman 2013/12/13 v2.7 German support for babel (new orthography)
+
+(c:/texlive/2015/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+Language: ngermanb 2013/12/13 v2.7 German support for babel (new orthography)
+
+(c:/texlive/2015/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/02/24 3.9q Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+\l@naustrian = a dialect from \language\l@ngerman 
+\l@nswissgerman = a dialect from \language\l@ngerman 
+Package babel Info: Making " an active character on input line 88.
+)))
+(c:/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(c:/texlive/2015/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2015/03/17 v1.2c Input encoding file
+))
+(c:/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(c:/texlive/2015/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(c:/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen106
+))
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen107
+)
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks18
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks19
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks20
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(c:/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
+(c:/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(c:/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count101
+\Gm@cntv=\count102
+\c@Gm@tempcnt=\count103
+\Gm@bindingoffset=\dimen115
+\Gm@wd@mp=\dimen116
+\Gm@odd@mp=\dimen117
+\Gm@even@mp=\dimen118
+\Gm@layoutwidth=\dimen119
+\Gm@layoutheight=\dimen120
+\Gm@layouthoffset=\dimen121
+\Gm@layoutvoffset=\dimen122
+\Gm@dimlist=\toks22
+))
+(./praktikum2.aux)
+\openout1 = `praktikum2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ (c:/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count104
+\scratchdimen=\dimen123
+\scratchbox=\box28
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen124
+\MPnumerator=\count108
+\makeMPintoPDFobject=\count109
+\everyMPtoPDFconversion=\toks24
+) (c:/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(63.87643pt, 469.75499pt, 63.87645pt)
+* v-part:(T,H,B)=(77.84674pt, 650.43pt, 116.77011pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.75499pt
+* \textheight=650.43pt
+* \oddsidemargin=-8.39355pt
+* \evensidemargin=-8.39355pt
+* \topmargin=-31.42325pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 369.88583pt, 113.81102pt)
+* v-part:(T,H,B)=(170.71652pt, 560.5193pt, 113.81102pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=369.88583pt
+* \textheight=560.5193pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=61.44653pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(./praktikum2.toc)
+\tf@toc=\write3
+\openout3 = `praktikum2.toc'.
+
+ (./pagestyle.tex)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 22.48724pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[1{c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+(./ausgangsKennlinie.tex <Stromspiegel.png, id=9, 392.21532pt x 222.8325pt>
+File: Stromspiegel.png Graphic file (type png)
+
+<use Stromspiegel.png>
+Package pdftex.def Info: Stromspiegel.png used on input line 10.
+(pdftex.def)             Requested size: 274.54884pt x 155.98167pt.
+ [2 <./Stromspiegel.png>]
+<Text.png, id=18, 469.00218pt x 371.13657pt>
+File: Text.png Graphic file (type png)
+ <use Text.png>
+Package pdftex.def Info: Text.png used on input line 18.
+(pdftex.def)             Requested size: 375.20226pt x 296.90965pt.
+
+Overfull \hbox (5.31642pt too wide) in paragraph at lines 18--19
+ [] 
+ []
+
+<Tabelle1.png, id=19, 429.85594pt x 190.46156pt>
+File: Tabelle1.png Graphic file (type png)
+ <use Tabelle1.png>
+Package pdftex.def Info: Tabelle1.png used on input line 23.
+(pdftex.def)             Requested size: 343.88521pt x 152.36943pt.
+
+<Graph1.png, id=20, 478.78876pt x 520.19344pt>
+File: Graph1.png Graphic file (type png)
+ <use Graph1.png>
+Package pdftex.def Info: Graph1.png used on input line 28.
+(pdftex.def)             Requested size: 383.03152pt x 416.1553pt.
+
+Overfull \hbox (13.14569pt too wide) in paragraph at lines 28--29
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3
+
+ <./Text.png> <./Tabelle1.png>] [4 <./Graph1.png>]) (./eingangsKennlinie.tex
+<Differenzstufe.png, id=27, 428.35031pt x 322.95656pt>
+File: Differenzstufe.png Graphic file (type png)
+
+<use Differenzstufe.png>
+Package pdftex.def Info: Differenzstufe.png used on input line 17.
+(pdftex.def)             Requested size: 342.68071pt x 258.36559pt.
+ [5
+
+ <./Differenzstufe.png>]
+File: Text.png Graphic file (type png)
+ <use Text.png>
+Package pdftex.def Info: Text.png used on input line 24.
+(pdftex.def)             Requested size: 375.20226pt x 296.90965pt.
+
+Overfull \hbox (5.31642pt too wide) in paragraph at lines 24--25
+ [] 
+ []
+
+<Tabelle2.png, id=31, 460.72125pt x 112.16907pt>
+File: Tabelle2.png Graphic file (type png)
+ <use Tabelle2.png>
+Package pdftex.def Info: Tabelle2.png used on input line 29.
+(pdftex.def)             Requested size: 368.5775pt x 89.73535pt.
+
+<Tabelle3.png, id=33, 460.72125pt x 211.54031pt>
+File: Tabelle3.png Graphic file (type png)
+ <use Tabelle3.png>
+Package pdftex.def Info: Tabelle3.png used on input line 34.
+(pdftex.def)             Requested size: 368.5775pt x 169.23247pt.
+File: Text.png Graphic file (type png)
+
+<use Text.png>
+Package pdftex.def Info: Text.png used on input line 39.
+(pdftex.def)             Requested size: 375.20226pt x 296.90965pt.
+
+Overfull \hbox (5.31642pt too wide) in paragraph at lines 39--40
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Graph2.png, id=34, 464.4853pt x 468.24937pt>
+File: Graph2.png Graphic file (type png)
+ <use Graph2.png>
+Package pdftex.def Info: Graph2.png used on input line 44.
+(pdftex.def)             Requested size: 371.58875pt x 374.59999pt.
+
+Overfull \hbox (1.70291pt too wide) in paragraph at lines 44--45
+ [] 
+ []
+
+[6
+
+ <./Tabelle2.png>] [7 <./Tabelle3.png>] [8 <./Graph2.png>])
+(./stromSteuerKennlinie.tex
+Overfull \hbox (2.3077pt too wide) in paragraph at lines 2--9
+\T1/cmr/m/n/10 aus-ge-steu-ert wer-den. Für die-sen Ver-suchs-teil wird ein dif
+-fe-ren-ti-el-les AC-Eingangssignal
+ []
+
+<Differenzstufe1.png, id=46, 425.33907pt x 321.45094pt>
+File: Differenzstufe1.png Graphic file (type png)
+
+<use Differenzstufe1.png>
+Package pdftex.def Info: Differenzstufe1.png used on input line 23.
+(pdftex.def)             Requested size: 340.2717pt x 257.16109pt.
+File: Text.png Graphic file (type png)
+ <use Text.png>
+Package pdftex.def Info: Text.png used on input line 29.
+(pdftex.def)             Requested size: 375.20226pt x 296.90965pt.
+
+Overfull \hbox (5.31642pt too wide) in paragraph at lines 29--30
+ [] 
+ []
+
+[9
+
+ <./Differenzstufe1.png>] <Tabelle4.png, id=50, 481.04718pt x 115.93312pt>
+File: Tabelle4.png Graphic file (type png)
+
+<use Tabelle4.png>
+Package pdftex.def Info: Tabelle4.png used on input line 34.
+(pdftex.def)             Requested size: 384.83827pt x 92.74661pt.
+
+Overfull \hbox (14.95244pt too wide) in paragraph at lines 34--35
+ [] 
+ []
+
+<Tabelle5.png, id=51, 481.04718pt x 249.18094pt>
+File: Tabelle5.png Graphic file (type png)
+ <use Tabelle5.png>
+Package pdftex.def Info: Tabelle5.png used on input line 39.
+(pdftex.def)             Requested size: 384.83827pt x 199.345pt.
+
+Overfull \hbox (14.95244pt too wide) in paragraph at lines 39--40
+ [] 
+ []
+
+File: Text.png Graphic file (type png)
+<use Text.png>
+Package pdftex.def Info: Text.png used on input line 44.
+(pdftex.def)             Requested size: 375.20226pt x 296.90965pt.
+
+Overfull \hbox (5.31642pt too wide) in paragraph at lines 44--45
+ [] 
+ []
+
+<Graph3.png, id=52, 464.4853pt x 471.26062pt>
+File: Graph3.png Graphic file (type png)
+ <use Graph3.png>
+Package pdftex.def Info: Graph3.png used on input line 49.
+(pdftex.def)             Requested size: 371.58875pt x 377.00902pt.
+
+Overfull \hbox (1.70291pt too wide) in paragraph at lines 49--50
+ [] 
+ []
+
+[10 <./Tabelle4.png>]
+
+LaTeX Warning: Text page  contains only floats.
+
+[11 <./Tabelle5.png>] <Write.png, id=60, 392.21532pt x 518.6878pt>
+File: Write.png Graphic file (type png)
+
+<use Write.png>
+Package pdftex.def Info: Write.png used on input line 55.
+(pdftex.def)             Requested size: 480.8527pt x 635.94818pt.
+
+Overfull \hbox (110.96687pt too wide) in paragraph at lines 55--56
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 86.42888pt on input line 57.
+
+File: Write.png Graphic file (type png)
+<use Write.png>
+Package pdftex.def Info: Write.png used on input line 61.
+(pdftex.def)             Requested size: 480.8527pt x 635.94818pt.
+
+Overfull \hbox (110.96687pt too wide) in paragraph at lines 61--62
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 86.42888pt on input line 63.
+
+File: Write.png Graphic file (type png)
+<use Write.png>
+Package pdftex.def Info: Write.png used on input line 67.
+(pdftex.def)             Requested size: 480.8527pt x 635.94818pt.
+
+Overfull \hbox (110.96687pt too wide) in paragraph at lines 67--68
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 86.42888pt on input line 69.
+
+File: Write.png Graphic file (type png)
+<use Write.png>
+Package pdftex.def Info: Write.png used on input line 73.
+(pdftex.def)             Requested size: 480.8527pt x 635.94818pt.
+
+Overfull \hbox (110.96687pt too wide) in paragraph at lines 73--74
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 86.42888pt on input line 75.
+
+File: Write.png Graphic file (type png)
+<use Write.png>
+Package pdftex.def Info: Write.png used on input line 79.
+(pdftex.def)             Requested size: 480.8527pt x 635.94818pt.
+
+Overfull \hbox (110.96687pt too wide) in paragraph at lines 79--80
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 86.42888pt on input line 81.
+
+) [12 <./Graph3.png>] [13 <./Write.png>] [14] [15] [16] [17] (./praktikum2.aux)
+ ) 
+Here is how much of TeX's memory you used:
+ 3481 strings out of 493027
+ 45685 string characters out of 6137684
+ 120850 words of memory out of 5000000
+ 6952 multiletter control sequences out of 15000+600000
+ 8716 words of font info for 22 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,10n,43p,878b,273s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texl
+ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2015/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2015/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2015/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public
+/cm-super/sfbx1000.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/cm-super/
+sfbx1200.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1440.p
+fb><c:/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on praktikum2.pdf (17 pages, 369816 bytes).
+PDF statistics:
+ 108 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+

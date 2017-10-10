@@ -1,0 +1,10 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Stromspiegel}{}
+\contentsline {subsection}{\numberline {1.1}Experimentelle Durchf\"uhrung}{}
+\contentsline {subsection}{\numberline {1.2}Ergebnisse und Diskussion}{}
+\contentsline {section}{\numberline {2}Differenzstufe}{}
+\contentsline {subsection}{\numberline {2.1}Experimentelle Durchf\"uhrung}{}
+\contentsline {subsection}{\numberline {2.2}Ergebnisse und Diskussion}{}
+\contentsline {section}{\numberline {3}Differenzstufe: Differenzaussteuerung}{}
+\contentsline {subsection}{\numberline {3.1}Experimentelle Durchf\"urung}{}
+\contentsline {subsection}{\numberline {3.2}Ergebnisse und Diskussion}{}

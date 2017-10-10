@@ -1,0 +1,13 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Eingenschaften TTL- und CMOS-Gattern}{}
+\contentsline {subsection}{\numberline {1.1}Experimentelle Durchf\"uhrung}{}
+\contentsline {subsection}{\numberline {1.2}Ergebnisse und Diskussion}{}
+\contentsline {section}{\numberline {2}CMOS-Inverter}{}
+\contentsline {subsection}{\numberline {2.1}Experimentelle Durchf\"uhrung}{}
+\contentsline {subsection}{\numberline {2.2}Ergebnisse und Diskussion}{}
+\contentsline {section}{\numberline {3}Ringoszillator}{}
+\contentsline {subsection}{\numberline {3.1}Experimentelle Durchf\"uhrung}{}
+\contentsline {subsection}{\numberline {3.2}Ergebnisse und Diskussion}{}
+\contentsline {section}{\numberline {4}FAN-OUT}{}
+\contentsline {subsection}{\numberline {4.1}Experimentelle Durchf\"uhrung}{}
+\contentsline {subsection}{\numberline {4.2}Ergebnisse und Diskussion}{}

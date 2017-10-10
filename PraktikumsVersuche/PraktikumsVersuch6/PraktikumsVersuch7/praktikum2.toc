@@ -1,0 +1,16 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Betriebsspannung}{}
+\contentsline {subsection}{\numberline {1.1}Experimentelle Durchf\"urung}{}
+\contentsline {subsection}{\numberline {1.2}Ergebnisse und Diskussion}{}
+\contentsline {section}{\numberline {2}Slew Rate}{}
+\contentsline {subsection}{\numberline {2.1}Experimentelle Durchf\"urung}{}
+\contentsline {subsection}{\numberline {2.2}Ergebnisse und Diskussion}{}
+\contentsline {section}{\numberline {3}Offset-Abgleich}{}
+\contentsline {subsection}{\numberline {3.1}Experimentelle Durchf\"urung}{}
+\contentsline {subsection}{\numberline {3.2}Ergebnisse und Diskussion}{}
+\contentsline {section}{\numberline {4}\"Ubertragungsverhalten}{}
+\contentsline {subsection}{\numberline {4.1}Experimentelle Durchf\"urung}{}
+\contentsline {subsection}{\numberline {4.2}Ergebnisse und Diskussion}{}
+\contentsline {section}{\numberline {5}Integrator und Differentiator}{}
+\contentsline {subsection}{\numberline {5.1}Experimentelle Durchf\"urung}{}
+\contentsline {subsection}{\numberline {5.2}Ergebnisse und Diskussion}{}

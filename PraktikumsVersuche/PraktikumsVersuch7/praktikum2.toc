@@ -1,0 +1,14 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Multivibrator}{}
+\contentsline {subsection}{\numberline {1.1}Experimentelle Durchf\"urung}{}
+\contentsline {subsection}{\numberline {1.2}Ergebnisse und Diskussion}{}
+\contentsline {section}{\numberline {2}Signal \"ubertragungstrecke}{}
+\contentsline {subsection}{\numberline {2.1}Signalwandlung elektrisch-optisch}{}
+\contentsline {subsubsection}{\numberline {2.1.1}Experimentelle Durchf\"urung}{}
+\contentsline {subsubsection}{\numberline {2.1.2}Ergebnisse und Diskussion}{}
+\contentsline {subsection}{\numberline {2.2}Signalwandlung optisch-elektrisch}{}
+\contentsline {subsubsection}{\numberline {2.2.1}Experimentelle Durchf\"uhrung}{}
+\contentsline {subsubsection}{\numberline {2.2.2}Ergebnisse und Diskussion}{}
+\contentsline {subsection}{\numberline {2.3}Signalverst\"arkung uns Signalausgabe}{}
+\contentsline {subsubsection}{\numberline {2.3.1}Experimentelle Durchf\"uhrung}{}
+\contentsline {subsubsection}{\numberline {2.3.2}Ergebnisse und Diskussion}{}
